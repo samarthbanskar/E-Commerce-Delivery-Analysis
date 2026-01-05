@@ -108,3 +108,13 @@ Time-slot based operational performance
 
 This analysis highlights how delivery delays, operational timing, and product categories impact customer satisfaction and refunds.
 By focusing on peak-hour optimization and delay reduction strategies, e-commerce platforms can improve customer experience and reduce revenue loss.
+
+🚀 Future Improvements
+
+Add proper order date and time to analyze monthly and seasonal trends
+
+Improve data quality by ensuring complete and consistent timestamps
+
+Track delivery partner workload to understand peak-hour delays
+
+Analyze customer feedback in more detail to improve service quality
