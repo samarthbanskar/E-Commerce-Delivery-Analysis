@@ -92,18 +92,6 @@ Proactively manage refunds by addressing delay-prone segments
 
 Delay rates vary across categories, indicating category-specific logistics challenges
 
-⏰ Time Slot Analysis
-
-Most valid orders were placed during morning hours
-
-Afternoon and evening slots show higher delivery delays
-
-Night-time deliveries have the lowest delay rate and highest customer ratings
-
-Operational load during peak hours impacts delivery performance
-
-Time-slot based operational performance
-
 📌 Conclusion
 
 This analysis highlights how delivery delays, operational timing, and product categories impact customer satisfaction and refunds.
